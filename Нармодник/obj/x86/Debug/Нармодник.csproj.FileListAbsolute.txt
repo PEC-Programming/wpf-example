@@ -1,0 +1,33 @@
+C:\Users\Преподаватель\Desktop\Нармодник\Нармодник\bin\Debug\Нармодник.exe
+C:\Users\Преподаватель\Desktop\Нармодник\Нармодник\bin\Debug\Нармодник.pdb
+C:\Users\Преподаватель\Desktop\Нармодник\Нармодник\obj\x86\Debug\MainWindow.baml
+C:\Users\Преподаватель\Desktop\Нармодник\Нармодник\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Преподаватель\Desktop\Нармодник\Нармодник\obj\x86\Debug\App.g.cs
+C:\Users\Преподаватель\Desktop\Нармодник\Нармодник\obj\x86\Debug\Нармодник_MarkupCompile.cache
+C:\Users\Преподаватель\Desktop\Нармодник\Нармодник\obj\x86\Debug\Нармодник.g.resources
+C:\Users\Преподаватель\Desktop\Нармодник\Нармодник\obj\x86\Debug\Нармодник.Properties.Resources.resources
+C:\Users\Преподаватель\Desktop\Нармодник\Нармодник\obj\x86\Debug\Нармодник.csproj.GenerateResource.Cache
+C:\Users\Преподаватель\Desktop\Нармодник\Нармодник\obj\x86\Debug\Нармодник.exe
+C:\Users\Преподаватель\Desktop\Нармодник\Нармодник\obj\x86\Debug\Нармодник.pdb
+C:\Users\Преподаватель\Desktop\Нармодник\Нармодник\obj\x86\Debug\RegisterPage.baml
+C:\Users\Преподаватель\Desktop\Нармодник\Нармодник\obj\x86\Debug\RegisterPage.g.cs
+C:\Users\Преподаватель\Desktop\Нармодник\Нармодник\obj\x86\Debug\SignInPage.baml
+C:\Users\Преподаватель\Desktop\Нармодник\Нармодник\obj\x86\Debug\SignInPage.g.cs
+C:\Users\da_safronov\Desktop\Пример проекта на WPF\Нармодник\bin\Debug\Нармодник.exe.config
+C:\Users\da_safronov\Desktop\Пример проекта на WPF\Нармодник\bin\Debug\Нармодник.exe
+C:\Users\da_safronov\Desktop\Пример проекта на WPF\Нармодник\bin\Debug\Нармодник.pdb
+C:\Users\da_safronov\Desktop\Пример проекта на WPF\Нармодник\obj\x86\Debug\Нармодник.csproj.AssemblyReference.cache
+C:\Users\da_safronov\Desktop\Пример проекта на WPF\Нармодник\obj\x86\Debug\MainWindow.baml
+C:\Users\da_safronov\Desktop\Пример проекта на WPF\Нармодник\obj\x86\Debug\RegisterPage.baml
+C:\Users\da_safronov\Desktop\Пример проекта на WPF\Нармодник\obj\x86\Debug\SignInPage.baml
+C:\Users\da_safronov\Desktop\Пример проекта на WPF\Нармодник\obj\x86\Debug\MainWindow.g.cs
+C:\Users\da_safronov\Desktop\Пример проекта на WPF\Нармодник\obj\x86\Debug\RegisterPage.g.cs
+C:\Users\da_safronov\Desktop\Пример проекта на WPF\Нармодник\obj\x86\Debug\SignInPage.g.cs
+C:\Users\da_safronov\Desktop\Пример проекта на WPF\Нармодник\obj\x86\Debug\App.g.cs
+C:\Users\da_safronov\Desktop\Пример проекта на WPF\Нармодник\obj\x86\Debug\Нармодник_MarkupCompile.cache
+C:\Users\da_safronov\Desktop\Пример проекта на WPF\Нармодник\obj\x86\Debug\Нармодник.g.resources
+C:\Users\da_safronov\Desktop\Пример проекта на WPF\Нармодник\obj\x86\Debug\Нармодник.Properties.Resources.resources
+C:\Users\da_safronov\Desktop\Пример проекта на WPF\Нармодник\obj\x86\Debug\Нармодник.csproj.GenerateResource.cache
+C:\Users\da_safronov\Desktop\Пример проекта на WPF\Нармодник\obj\x86\Debug\Нармодник.csproj.CoreCompileInputs.cache
+C:\Users\da_safronov\Desktop\Пример проекта на WPF\Нармодник\obj\x86\Debug\Нармодник.exe
+C:\Users\da_safronov\Desktop\Пример проекта на WPF\Нармодник\obj\x86\Debug\Нармодник.pdb

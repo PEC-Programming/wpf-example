@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2008/09/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="deuser0ModelStoreContainer" CdmEntityContainer="deuser0Entities">
+    <EntitySetMapping Name="client">
+      <EntityTypeMapping TypeName="deuser0Model.client">
+        <MappingFragment StoreEntitySet="client">
+          <ScalarProperty Name="sex" ColumnName="sex" />
+          <ScalarProperty Name="fio" ColumnName="fio" />
+          <ScalarProperty Name="id" ColumnName="id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
